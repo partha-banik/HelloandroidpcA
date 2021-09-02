@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Helloandroid pc-A</string>
+    <string name="welcommessage">Hello partha!</string>
+    <string name="buttontext">save</string>
+</resources>
